@@ -1,2 +1,2 @@
-## Programming_Stuff
+## Programming Stuff
 ### Repo for random scripts, helpful programming notes, etc. 
