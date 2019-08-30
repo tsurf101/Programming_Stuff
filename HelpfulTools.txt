@@ -10,3 +10,8 @@
 
 ### Commands
 - "which" helps you find where the exe is 
+
+
+## Pages
+- Great Resource for getting yourself setup.
+  - http://openbookproject.net/thinkcs/python/english3e/app_c.html
