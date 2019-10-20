@@ -15,3 +15,6 @@
 ## Pages
 - Great Resource for getting yourself setup.
   - http://openbookproject.net/thinkcs/python/english3e/app_c.html
+  - Linux 
+    - https://ryanstutorials.net/linuxtutorial/cheatsheetgrep.php
+    - https://ryanstutorials.net/linuxtutorial/scripting.php
