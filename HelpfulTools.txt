@@ -21,3 +21,6 @@
   - Linux 
     - https://ryanstutorials.net/linuxtutorial/cheatsheetgrep.php
     - https://ryanstutorials.net/linuxtutorial/scripting.php
+
+Memorizing shortcuts for speed 
+- https://www.shortcutfoo.com/
