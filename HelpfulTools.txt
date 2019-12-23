@@ -11,6 +11,9 @@
 ### Commands
 - "which" helps you find where the exe is 
 
+- how to count the number of python in a current working directory in bash removing any test occurances
+ ->  ls -1 | grep '.*py$' | grep -v '^test_' | wc -l
+
 
 ## Pages
 - Great Resource for getting yourself setup.
