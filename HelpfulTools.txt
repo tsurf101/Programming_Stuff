@@ -5,7 +5,8 @@
 - HomeBrew-Cask
 - pdftk (To Automate PDF Stuff) 
 - git
-- Don't waste your time manually opening Jupyter notebooks, use jupyter notebook
+- Don't waste your time manually opening Jupyter notebooks, use "jupyter notebook" in the comamnd line 
+- touch XYZ.txt, create file XYZ.txt  
 
 
 ### Commands
