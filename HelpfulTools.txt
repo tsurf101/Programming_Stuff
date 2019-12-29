@@ -1,4 +1,6 @@
-## Great tools for programming
+## Great tools for programming 
+
+## Hacks to working faster 
 
 - You can use "Ack" instead of grep 
   -- brew install ack
@@ -7,6 +9,7 @@
 - git
 - Don't waste your time manually opening Jupyter notebooks, use "jupyter notebook" in the comamnd line 
 - touch XYZ.txt, create file XYZ.txt  
+- convert XYZ.doc XYZ.PDF
 
 
 ### Commands
