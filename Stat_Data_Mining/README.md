@@ -1,5 +1,5 @@
 ## An Introduction to Statistical Learning with Apps in R
-### "Statistical Data Mining"
+### "Statistical Data Mining" - "Machine Learning" 
 
 - Link to book Solutions
   - https://rpubs.com/ppaquay/
