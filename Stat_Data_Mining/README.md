@@ -10,3 +10,4 @@
   - https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b
   - https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/
   - https://towardsdatascience.com/linear-regression-modeling-and-assumptions-dcd7a201502a
+  - https://philippbroniecki.com/ML2017.io/index.html
