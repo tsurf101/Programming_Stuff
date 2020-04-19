@@ -7,3 +7,8 @@
 
 ## Hands down best guide to all things Python
   - https://docs.python-guide.org/#
+
+## Resources for R 
+  - Shiny
+  - Leaflet
+  - https://rstudio.github.io/leaflet/shiny.html
