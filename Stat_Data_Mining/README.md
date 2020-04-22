@@ -12,3 +12,4 @@
   - https://towardsdatascience.com/linear-regression-modeling-and-assumptions-dcd7a201502a
   - https://philippbroniecki.com/ML2017.io/index.html
   - "Unsurprivsed Clustering" https://uc-r.github.io/hc_clustering
+  - https://www.hackerearth.com/blog/developers/practical-guide-to-clustering-algorithms-evaluation-in-r/
