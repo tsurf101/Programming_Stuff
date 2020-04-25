@@ -13,7 +13,7 @@ library("ggplot2")
 #library(dplyr)
 #library("forcats")
 
-#setwd("~.....") #Tom S - PLEASE DO NOT DELETE
+#setwd("~.....")
 
 table2 = read.table(".....csv", header=TRUE, sep=",") # takes 10 seconds
 table2 <- table2[, c("Long","Lat")]
