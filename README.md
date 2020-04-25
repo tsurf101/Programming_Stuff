@@ -3,6 +3,7 @@
 
 
 - Pretty good class from MIT, https://missing.csail.mit.edu/
+- Mail merge with RMarkdown -> https://rmarkdown.rstudio.com/articles_mail_merge.html
 
 
 ## Hands down best guide to all things Python
