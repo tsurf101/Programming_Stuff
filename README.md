@@ -13,6 +13,7 @@
   - Shiny
   - Leaflet
   - https://rstudio.github.io/leaflet/shiny.html
+  - https://www.rmetrics.org/
 
 ## LinAlg
   - Excellent Review - https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
