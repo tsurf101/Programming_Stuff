@@ -14,3 +14,5 @@
   - "Unsurprivsed Clustering" https://uc-r.github.io/hc_clustering
   - https://www.hackerearth.com/blog/developers/practical-guide-to-clustering-algorithms-evaluation-in-r/
   - Decent Analysis, https://rpubs.com/Rashmi_Subrahmanya/371719
+  - "Spacial Data Science Book", https://keen-swartz-3146c4.netlify.app/
+  - Spacial Gallery example, https://edzer.github.io/sp/
