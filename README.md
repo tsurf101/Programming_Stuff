@@ -4,6 +4,8 @@
 
 - Pretty good class from MIT, https://missing.csail.mit.edu/
 - Mail merge with RMarkdown -> https://rmarkdown.rstudio.com/articles_mail_merge.html
+- Great Resource for Pandas -> http://pandas-docs.github.io/pandas-docs-travis/getting_started/10min.html
+- http://pandas-docs.github.io/pandas-docs-travis/user_guide/cookbook.html#cookbook
 
 
 ## Hands down best guide to all things Python
