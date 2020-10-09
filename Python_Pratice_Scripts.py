@@ -32,4 +32,25 @@ extraCandies = 3
           else:
               list.append("False")
       return(list)
+
+# ------------------------------------------------------
+# Shuffle the Array
+
+    def shuffle(self, nums: List[int], n: int) -> List[int]:
+        size= len(nums) # length of our array
+        result=list(([0]*size)) # Creating empty list 
+        j = 0
+        for i  in range(n): # notice how we are going to n
+            result[j]=nums[i] # add the ith value to the 1st 
+            result[j+1]= nums[i+n] # add the i+nth one, this is the key trick in the code 
+            j = j+2 # increment j after loop through. 
+        return result
+
+
+
+
+
+
+
+    
     
