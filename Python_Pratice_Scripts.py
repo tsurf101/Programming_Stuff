@@ -46,6 +46,19 @@ extraCandies = 3
             j = j+2 # increment j after loop through. 
         return result
 
+# ------------------------------------------------------
+# Shuffle String
+# Given a string s and an integer array indices of the same length.
+# The string s will be shuffled such that the character at the ith position moves to indices[i] in the shuffled string.
+s = "codeleet"
+indices = [4,5,6,7,0,2,1,3]
+
+    def restoreString(self, s: str, indices: List[int]) -> str:
+        zipped_list = zip(indices, s) # pair them together with an iterable object
+        sorted__zipped_lists = sorted(zipped_list) # sort it based off the indicies given to me 
+        sorted_list1 = [element for _, element in sorted__zipped_lists] # unpack items 
+        return(''.join(sorted_list1)) # return the joined object 
+
 
 
 
