@@ -85,7 +85,17 @@ def smallerNumbersThanCurrent(nums):
 smallerNumbersThanCurrent(nums)
 
 # ------------------------------------------------------
+# Given an integer number n, return the difference between the product of its digits and the sum of its digits.
 
+def subtractProductAndSum(self, n: int) -> int:
+    sum = 0
+    product = 1
+
+    for i in str(n):
+        sum = sum + int(i)
+        product = product * int(i)
+
+    return(product - sum)
 
     
     
