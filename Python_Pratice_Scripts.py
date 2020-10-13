@@ -97,5 +97,11 @@ def subtractProductAndSum(self, n: int) -> int:
 
     return(product - sum)
 
-    
+ # numpy attempt
+
+import numpy as np
+
+def subtractProductAndSum(self, n: int) -> int:
+    a = [int(x) for x in str(n)]
+    return np.prod(a) - np.sum(a)
     
