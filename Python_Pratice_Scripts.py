@@ -57,12 +57,34 @@ indices = [4,5,6,7,0,2,1,3]
         zipped_list = zip(indices, s) # pair them together with an iterable object
         sorted__zipped_lists = sorted(zipped_list) # sort it based off the indicies given to me 
         sorted_list1 = [element for _, element in sorted__zipped_lists] # unpack items 
-        return(''.join(sorted_list1)) # return the joined object 
+        return(''.join(sorted_list1)) # return the joined object
+      
+# ------------------------------------------------------
+# Count the number of smaller numbers than the current
+nums = [8, 1, 2, 2, 3]
 
+def smallerNumbersThanCurrent(nums):
+    final_list = []
+    for i in range(0, len(nums)):
+        count = 0
+        for a in range(0, len(nums)):
+            if nums[a] < nums[i]:
+                count = count + 1
+        final_list.append(count)
+    print(final_list)
 
+smallerNumbersThanCurrent(nums)
 
+def smallerNumbersThanCurrent(nums):
+    dct = {}
+    for i, n in enumerate(sorted(nums)):
+        if n not in dct:
+            dct[n] = i
+    print([dct[n] for n in nums])
 
+smallerNumbersThanCurrent(nums)
 
+# ------------------------------------------------------
 
 
     
