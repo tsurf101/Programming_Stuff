@@ -104,4 +104,19 @@ import numpy as np
 def subtractProductAndSum(self, n: int) -> int:
     a = [int(x) for x in str(n)]
     return np.prod(a) - np.sum(a)
-    
+  
+# ------------------------------------------------------
+# 1221. Split a String in Balanced Strings
+
+# Input: s = "RLLLLRRRLR"
+# Output: 3
+# Explanation: s can be split into "RL", "LLLRRR", "LR", each substring contains same number of 'L' and 'R'.
+
+finalcount = counter = 0
+for letter in s:
+    counter += 1 if letter == "L" else -1
+    if counter == 0:
+        finalcount += 1
+
+
+
