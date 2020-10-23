@@ -118,5 +118,17 @@ for letter in s:
     if counter == 0:
         finalcount += 1
 
+# ------------------------------------------------------
+# Create Target Array in the Given Order
+nums = [1,2,3,4,0]
+index = [0,1,2,3,0]
+
+# Answer - [0,4,1,3,2]
+final_list = []
+for number,index in zip(nums,index):
+    final_list.insert(index,number)
+
+print(final_list)
+
 
 
